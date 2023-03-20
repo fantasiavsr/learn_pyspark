@@ -7,6 +7,9 @@
 ## Spark yang digunakan menggunakan versi 3.3.2
 ![image](https://user-images.githubusercontent.com/86558365/226427212-96722360-87a3-4917-bac0-27408ba197ea.png)
 
+Testing Spark pada csv menggunakan query sql
+![image](https://user-images.githubusercontent.com/86558365/226431557-f78095f3-a57b-4a61-a500-c5bc4123d5f2.png)
+
 WordCount.py
 ![image](https://user-images.githubusercontent.com/86558365/226431191-bca98977-d527-4518-aa2d-c482cff4603a.png)
 
