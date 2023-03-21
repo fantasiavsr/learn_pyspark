@@ -3,6 +3,7 @@
 ## pyspark menggunakan Container Docker pada Windows
 
 ![image](https://user-images.githubusercontent.com/86558365/226426668-52d368d2-e9c0-4c29-bf01-981631c59206.png)
+prerequisite: visual studio code, docker, java, python, & scala
 
 ## Spark yang digunakan menggunakan versi 3.3.2
 ![image](https://user-images.githubusercontent.com/86558365/226427212-96722360-87a3-4917-bac0-27408ba197ea.png)
