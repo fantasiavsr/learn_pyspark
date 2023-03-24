@@ -29,6 +29,8 @@ PairRDD.py
 UnderstandingRDDs.py
 ![image](https://user-images.githubusercontent.com/86558365/226431013-b36574eb-9145-4859-a0c4-147138348ea2.png)
 
+note: untuk yang scala sebenarnya masih belum bisa karena path yang digunakan berbeda tidak menggunakan cloduera, jadi di sini saya hanya menampilkan bahwa spark dengan scala dapat berjalan saja
+
 SystemCommandsOutput.scala
 ![image](https://user-images.githubusercontent.com/86558365/226498657-5c09654d-607a-4b1e-bf9c-6acf614e48b9.png)
 
