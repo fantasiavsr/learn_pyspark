@@ -3,10 +3,10 @@ from pyspark import *
 sc = SparkContext.getOrCreate();
 
 # Get the lines from the textfile, create 4 partitions
-access_log = sc.textFile("path/folder/anda", 4)
+access_log = sc.textFile("code/practicum/data/README.md", 4)
 
 #Filter Lines with ERROR only
-error_log = access_log.filter(lambda x: "ERROR" in x)
+error_log = access_log.filter(lambda x: "Spark" in x)
 
 # Cache error log in memory
 cached_log = error_log.cache()
