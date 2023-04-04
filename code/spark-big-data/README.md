@@ -177,5 +177,3 @@ flatMap      : Memecah setiap baris pada lines menjadi kata-kata terpisah menggu
 reduceByKey  : Menghitung jumlah kemunculan setiap kata pada RDD yang dihasilkan dari flatMap.
 split        : Memecah setiap baris pada lines menjadi kata-kata terpisah menggunakan pemisah spasi, sehingga menghasilkan RDD yang berisi semua kata pada file README.md.
 ```
-
-a
